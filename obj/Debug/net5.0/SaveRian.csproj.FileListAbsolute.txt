@@ -1,0 +1,16 @@
+C:\Projetos\git\Testes\SaveRian\bin\Debug\net5.0\SaveRian.exe
+C:\Projetos\git\Testes\SaveRian\bin\Debug\net5.0\SaveRian.deps.json
+C:\Projetos\git\Testes\SaveRian\bin\Debug\net5.0\SaveRian.runtimeconfig.json
+C:\Projetos\git\Testes\SaveRian\bin\Debug\net5.0\SaveRian.runtimeconfig.dev.json
+C:\Projetos\git\Testes\SaveRian\bin\Debug\net5.0\SaveRian.dll
+C:\Projetos\git\Testes\SaveRian\bin\Debug\net5.0\ref\SaveRian.dll
+C:\Projetos\git\Testes\SaveRian\bin\Debug\net5.0\SaveRian.pdb
+C:\Projetos\git\Testes\SaveRian\obj\Debug\net5.0\SaveRian.csproj.AssemblyReference.cache
+C:\Projetos\git\Testes\SaveRian\obj\Debug\net5.0\SaveRian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\git\Testes\SaveRian\obj\Debug\net5.0\SaveRian.AssemblyInfoInputs.cache
+C:\Projetos\git\Testes\SaveRian\obj\Debug\net5.0\SaveRian.AssemblyInfo.cs
+C:\Projetos\git\Testes\SaveRian\obj\Debug\net5.0\SaveRian.csproj.CoreCompileInputs.cache
+C:\Projetos\git\Testes\SaveRian\obj\Debug\net5.0\SaveRian.dll
+C:\Projetos\git\Testes\SaveRian\obj\Debug\net5.0\ref\SaveRian.dll
+C:\Projetos\git\Testes\SaveRian\obj\Debug\net5.0\SaveRian.pdb
+C:\Projetos\git\Testes\SaveRian\obj\Debug\net5.0\SaveRian.genruntimeconfig.cache
