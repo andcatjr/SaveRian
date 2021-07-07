@@ -19,10 +19,7 @@ namespace SaveRian
                 return;
             }
 
-            Console.WriteLine($" - - A posição segura para Rian é: {BrincadeiraMortal.RetornaPosicaoSegura(intTotalParticipantes)}");
-            Console.WriteLine("Por favor, digite um novo número de participantes ou aperte esc para sair.");
-            
-      
+            Console.WriteLine($" - - A posição segu ra para Rian é: {BrincadeiraMortal.RetornaPosicaoSegura(intTotalParticipantes)}");      
         }
     }
 }
